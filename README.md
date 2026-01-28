@@ -6,5 +6,5 @@ I'm a Principal Research Scientist at the [Alan Turing Institute](https://www.tu
 
 ---
 
-📬 Say hi: [mavroud.is](https://mavroud.is) | [Twitter](https://x.com/mavroudisv)
+📬 [mavroud.is](https://mavroud.is) | [Twitter](https://x.com/mavroudisv)
 
