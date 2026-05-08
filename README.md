@@ -2,7 +2,7 @@
 
 **Researcher and Engineer**
 
-I'm a Principal Research Scientist at the [Alan Turing Institute](https://www.turing.ac.uk/people/researchers/vasilios-mavroudis), building intelligent systems. I care about performance optimisations and safety.
+I'm a Principal Research Scientist, building intelligent systems. I care about performance optimisations and safety.
 
 ---
 
